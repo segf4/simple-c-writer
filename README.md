@@ -17,6 +17,6 @@ gcc -o simple_writer simple_writer.c
 
 ## Warning
 
-• Be very careful not to overwrite important files or drives!
-• This program is intended for Linux environments only.
-• Use at your own risk.
+• Be very careful not to overwrite important files or drives!              
+• This program is intended for Linux environments only.                
+• Use at your own risk.                  
